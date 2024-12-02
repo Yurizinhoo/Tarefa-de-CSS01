@@ -1,0 +1,49 @@
+#fundo {
+    background-color: #011724 ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#letras1 {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+
+#letras2 {
+    color: #06FAFA;
+    text-align: center;
+    font-size: 30px;
+}
+
+#fundo2 {
+    background-color:white;
+    width: 920px;
+    height: 520px;
+    border: #06FAFA solid 7px;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding:  65px;
+
+}
+
+#imagem {
+    border-radius: 50px;
+    border: #011724;
+    width: 260px;
+    height: 260px;
+    
+}
+
+#letras3 {
+    font-size: 29px;
+    color: blueviolet;
+}
+
+.letras4 {
+    font-size: 24px;
+
+}
